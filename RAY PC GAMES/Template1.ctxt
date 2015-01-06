@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Template1()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Template1.\r\n\ \r\n
+comment1.params=
+comment1.target=Print1\ getPrint1()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=isi\ getIsi()
+comment4.params=
+comment4.target=isi\ getTotal()
+numComments=5
